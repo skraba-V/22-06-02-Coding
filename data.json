@@ -1,0 +1,39 @@
+let students = `
+    [
+        {
+            "name": "John",
+            "age": 20,
+            "image": "img/pic.jpg",
+            "likes": 0
+        },{
+            "name": "Serri",
+            "age": 32,
+            "image": "img/pic.jpg",
+            "likes": 10
+        },{
+            "name": "Delia",
+            "age": 22,
+            "image": "img/pic.jpg",
+            "likes": 2
+        },{
+            "name": "Acilio",
+            "age": 33,
+            "image": "img/pic.jpg",
+            "likes": 20
+        },{
+            "name": "Marry",
+            "age": 18,
+            "image": "img/pic.jpg",
+            "likes": 1
+        }
+    ]
+`
+// {
+//     "students":[{
+//         {
+
+//         },{
+
+//         }
+//     }]
+// }
